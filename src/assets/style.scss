@@ -1,0 +1,17 @@
+#app {
+    display: flex;
+    height: 100vh;
+    background: #292929b6;
+}
+
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+@font-face {
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: normal;
+    src: url("../../public/fonts/HelveticaNowDisplay-Regular.ttf") format("truetype");
+}
