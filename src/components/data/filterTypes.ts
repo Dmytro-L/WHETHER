@@ -1,0 +1,2 @@
+export const WHITHIN_FILTER = 1,
+    COUNTRIES_FILTER = 2;
